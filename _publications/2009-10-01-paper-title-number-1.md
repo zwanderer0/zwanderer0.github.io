@@ -3,7 +3,7 @@ title: "INSOLE GAIT AND HAPTICS WEARABLES"
 collection: publications
 permalink: /publication/lechal-haptic-feedback-based-insole-i-o-system
 excerpt: 'LECHAL: HAPTIC FEEDBACK BASED INSOLE I/O SYSTEM'
-date: 
+date: 2023-12-10
 venue: 
 paperurl: 
 citation: Lechal (ले चल) started as a personal project to build a haptic navigation aid for the visually impaired. 
