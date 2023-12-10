@@ -1,15 +1,13 @@
 ---
 title: "INSOLE GAIT AND HAPTICS WEARABLES"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/lechal-haptic-feedback-based-insole-i-o-system
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
 Lechal (ले चल) started as a personal project to build a haptic navigation aid for the visually impaired. After 6 months of initial demos, Krispian and I decided to pursue Lechal further as a venture. See Lechal Initiative.  After several iterations, Le-chal has evolved as a full-fledged gait analysis and feedback platform. 
 
 ![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/664fcb7c-ade1-4a87-a518-c5e6ba1f452f)
