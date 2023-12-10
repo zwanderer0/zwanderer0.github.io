@@ -31,3 +31,23 @@ http://ivibe.de/ – Launched in Germany
 
 <iframe src="https://www.slideserve.com/embed/7387836" width="600" height="497" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px;max-width: 100%;" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
 
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/23ef0438-06f5-4f24-9fd7-3884d76c6417)
+
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/7becd386-ba4f-4700-a7bc-0e45b2b505da)
+
+## Evolution of Lechal Platform
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/f0f28568-0781-4dc2-9933-ff3d9d676613)
+
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/80fcbbe8-37d6-4bfe-bf98-97305557d804)
+
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/70ba37b6-2ffe-4c30-b904-5540493af89b)
+
+## Lechal initiative
+In collaboration with LV Prasad Eye Institute, Hyderabad
+
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/f523eca3-bfc9-4817-a648-17cc99f3627d)
+
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/6411131d-3c9c-470b-bfd5-6b0996e943b7)
+
+![image](https://github.com/zwanderer0/zwanderer0.github.io/assets/80713/90642d17-40b7-4bd2-b10b-89e7bda50d75)
+
