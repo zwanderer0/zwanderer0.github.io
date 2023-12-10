@@ -2,9 +2,9 @@
 title: "INSOLE GAIT AND HAPTICS WEARABLES"
 collection: publications
 permalink: /publication/lechal-haptic-feedback-based-insole-i-o-system
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-10-01
-venue: 'Journal 1'
+excerpt: 'LECHAL: HAPTIC FEEDBACK BASED INSOLE I/O SYSTEM'
+date: 
+venue: 
 paperurl: 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
