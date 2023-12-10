@@ -6,7 +6,7 @@ excerpt: 'LECHAL: HAPTIC FEEDBACK BASED INSOLE I/O SYSTEM'
 date: 
 venue: 
 paperurl: 
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: Lechal (ले चल) started as a personal project to build a haptic navigation aid for the visually impaired. 
 ---
 Lechal (ले चल) started as a personal project to build a haptic navigation aid for the visually impaired. After 6 months of initial demos, Krispian and I decided to pursue Lechal further as a venture. See Lechal Initiative.  After several iterations, Le-chal has evolved as a full-fledged gait analysis and feedback platform. 
 
