@@ -12,3 +12,4 @@ Anirudh (अनिरुद्ध) is interested in leveraging multimodal A.I. f
 
 He is a graduate and research affiliate of the MIT Media Lab, Massachusetts Institute of Technology, and worked with HP Labs and Google as a research engineer.
 
+<button style="padding: 20px 40px; font-size: 18px; background-color: #4CAF50; color: white; border: none; border-radius: 8px; cursor: pointer;"><a href="https://zwanderer0.github.io/bio/" style="text-decoration: none; color: white;">Get to Know Me</a></button>
