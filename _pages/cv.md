@@ -9,51 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I aspire to leverage the power of the physical world and computation to build multimodal human interfaces that augment the mind, body, and living environment. My work often results in products used by people across the world, in top academic conferences, and in mass media.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+I lead HCI Research and Product for Usefulsensors, a spinoff with the founding Team of Tensorflow (Google Brain)- building private/locally running AI agents on low-compute hardware. using (speech, LLMs, and TTS models). Discovering cognitive, bio/wellness markers from ambient human speech.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I earlier co-founded and led Ducere, a wearable wellness tech startup developing a haptic I/O platform for the visually impaired and elderly for fall and gait analysis (exited 2018- link 1, link 2).  and later Graviky Labs, an electrochemical carbon emissions CO2 to product venture (Forbes article, Case Study).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+As a graduate research assistant at the MIT Media Lab, Massachusetts Institute of Technology I built AR gestural interfaces using transparent displays under Prof. Pattie Maes. At Hewlett-Packard Labs and Google I developed an open-source multi-projector stereoscopic (3D) multimodal gestural interface for CAD modeling (SketchUp). 
+
+I taught Engineering Design Courses at MIT D-Lab, and MIT’s Global Startup Labs and co-led the Not-Profit MIT Media Lab India Initiative: a 10-day hands-on program where MIT/Harvard researchers worked with Indian students to explore new sensing technologies overlapping with real problems.
+
+(He also loves magic, tabla, camping, bonfires, and designing new contraptions for astrophotography. In an alternate universe, he is probably undergoing an apprenticeship with some sorcerer. )
